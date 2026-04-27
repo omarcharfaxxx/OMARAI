@@ -3,11 +3,11 @@ const config = {
     geminiApiKey: process.env.GEMINI_API_KEY || '',
     
     developer: {
-        phones: ['212718938088', '234905250308102', '212718643833'],
-        instagramUrl: 'https://www.instagram.com/omarxarafp',
-        channelUrl: 'https://www.instagram.com/omarxarafp',
+        phones: ['212718938088', '234905250308102', '212688898322'],
+        instagramUrl: 'https://www.instagram.com/omarxaraft',
+        channelUrl: 'https://www.instagram.com/omarcharaft',
         poweredBy: '\n\n> Omar AI',
-        pluginBranding: `\n\n*تابعني على انستجرام*\nhttps://www.instagram.com/omarxarafp\n\n> Omar AI`
+        pluginBranding: `\n\n*تابعني على انستجرام*\nhttps://www.instagram.com/omarxaraft\n\n> Omar AI`
     },
 
     bot: {
